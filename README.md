@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abouzihay1961
+- 👋 Hi, I’m @abouzihay 
 - 👀I’m passionate about leveraging data science to enhance user experiences, particularly in the field of clinical laboratory science.
 - 🌱 I’m currently learning how to build data warehouse
 - 💞️ I’m seeking opportunities to collaborate on applying data science in the field of clinical laboratory science.
