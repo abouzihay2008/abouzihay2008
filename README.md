@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @abouzihay1961
+- 👀I’m passionate about leveraging data science to enhance user experiences, particularly in the field of clinical laboratory science.
+- 🌱 I’m currently learning how to build data warehouse
+- 💞️ I’m seeking opportunities to collaborate on applying data science in the field of clinical laboratory science.
+- 📫 How to reach me abouziha@bu.edu
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+@abouzihay1961/@abouzihay1961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
